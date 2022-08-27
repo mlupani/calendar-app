@@ -1,0 +1,22 @@
+#root {
+  text-align: center;
+  display:flex;
+  flex-direction: column;
+}
+
+#header {
+  width: 100%;
+  display: flex;
+  justify-content: space-evenly;
+  flex-direction: row;
+  position: absolute;
+  top: 10px;
+}
+
+#select_months{
+  text-align: center;
+}
+
+#search_year {
+  text-align: center;
+}
